@@ -1,7 +1,8 @@
-public class ZapatoCasual {
+public class Zapato {
     private String marca, modelo;
     private double talla, precio;
-    public ZapatoCasual(String marca, String modelo, double talla, double precio) {
+    
+    public Zapato(String marca, String modelo, double talla, double precio) {
         this.marca = marca;
         this.modelo = modelo;
         this.talla = talla;
